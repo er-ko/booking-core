@@ -262,7 +262,7 @@ Run tests:
 
 Clone the repository:
 
-git clone https://github.com/yourname/bookingcore.git
+git clone https://github.com/ek-ko/bookingcore.git
 
 Install dependencies:
 
@@ -300,5 +300,5 @@ BookingCore
 Architecture project
 
 olaao
-http://olaao.com
+https://olaao.com
 SaaS platform
